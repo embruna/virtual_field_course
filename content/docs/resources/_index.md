@@ -10,6 +10,8 @@ weight: 3
 ---
 ## Instructor Resources
 
+The following resources are being compiled
+
 ### Video Libraries
 - [streamingscience](https://streamingscience.com/): online videos, podcasts and electronic field trips in agricultural sciences
 - [NEON field site visits](https://www.youtube.com/playlist?list=PLLWiknuNGd50X1JAJbqQlfwKpXbtJwXFy): NEON’s field sites are spread across the US from Utqiagvik, Alaska to Guanica, Puerto Rico and over 80 sites in between. These videos provide a quick introduction to each site
