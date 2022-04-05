@@ -59,15 +59,15 @@ The following resources are being compiled
 
 ### Resources for creating presentations
 
-[PlayPosit](https://go.playposit.com/higher-ed): Interactive presentations
-[H5P](https://h5p.org/): Interactive presentations and assessments
-[genially](https://genial.ly/): interactive (incl. gamified) presentations and infographics
+[PlayPosit](https://go.playposit.com/higher-ed): Interactive presentations  
+[H5P](https://h5p.org/): Interactive presentations and assessments  
+[genially](https://genial.ly/): interactive (incl. gamified) presentations and infographics  
  
 
 ### Instructor Networks
-[U-FERN](https://ufern.net/): The Undergraduate-Field Experiences Research Network
-[EREN](https://erenweb.org/): Ecological Research As Education Network
-[Enhancing Fieldwork Learning](https://enhancingfieldwork.org.uk/about/) 
+[U-FERN](https://ufern.net/): The Undergraduate-Field Experiences Research Network  
+[EREN](https://erenweb.org/): Ecological Research As Education Network  
+[Enhancing Fieldwork Learning](https://enhancingfieldwork.org.uk/about/)  
 
 ### Conferences and Webinars
 
