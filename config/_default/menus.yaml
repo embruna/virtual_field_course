@@ -7,15 +7,18 @@ main:
   # - name: Home Page
   #   url: /
   #   weight: 10
-  - name: Instructor
-    url: docs/instructor-info
+  - name: About
+    url: docs/objectives
     weight: 10
-  - name: Syllabus & Schedule
-    url: docs/course-schedule
+  - name: Team Members
+    url: docs/team-members
     weight: 20
-  - name: Assignments
-    url: docs/assignments
-    weight: 30
-  - name: Resources
+  - name: Instructor Resources
     url: docs/resources
+    weight: 30
+  - name: Literature
+    url: docs/literature
     weight: 40
+  - name: Get Involved
+    url: docs/contact
+    weight: 50
