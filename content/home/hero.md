@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Data Collection & Management
+title: The Virtual Field Course
 hero_media: latam-ridges.png
 logo: uf-logo.png
 design:
@@ -12,7 +12,7 @@ design:
     text_color_light: false
 cta:
   url: docs/
-  label: Course Introduction
+  label: Project Introduction
   icon_pack: fas
   icon: clipboard
 # cta_alt:
@@ -24,7 +24,8 @@ cta:
 #       Show your product version here:<!-- Automatically filled based on data-repo value -->
 #     </span>
 ---
-This course is designed for graduate students from any discipline – social sciences, humanities, biophysical sciences – and at all stages of their graduate program. It is an introduction to methods for collecting, organizing, managing, and visualizing both qualitative and quantitative data. Students will gain hands-on experience with best practices and tools.
+We are working to...
+
 
 
 
