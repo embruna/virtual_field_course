@@ -10,7 +10,7 @@ weight: 3
 ---
 ## Instructor Resources
 
-The following resources are being compiled
+
 
 ### Video Libraries
 - [streamingscience](https://streamingscience.com/): online videos, podcasts and electronic field trips in agricultural sciences
