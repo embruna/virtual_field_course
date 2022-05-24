@@ -7,7 +7,7 @@ summary: Relevant Research
 title: Literature
 type: book
 bibliography: sloan.bib
-weight: 4
+weight: 5
 ---
 
 - Barton, DC. 2020. Impacts of the COVID‐19 pandemic on field instruction and remote teaching alternatives: Results from a survey of instructors. Ecol Evol. 2020; 00: 1– 9. https://doi.org/10.1002/ece3.6628

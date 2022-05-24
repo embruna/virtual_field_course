@@ -2,7 +2,7 @@
 date: "2018-09-09T00:00:00Z"
 icon: tools
 icon_pack: fas
-linktitle: Resources
+linktitle: Content Libraries
 summary: resources for instructors
 title: Instructor Resources
 type: book

@@ -6,7 +6,7 @@ linktitle: Get Involved
 summary: how to get involved in the project
 # title: Get Involved
 type: book
-weight: 5
+weight: 6
 ---
 
 # Get Involved  
