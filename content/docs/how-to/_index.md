@@ -60,59 +60,61 @@ weight: 4
 ### Resources for creating presentations
 
 **Topics**
-[Copy.ai](https://www.copy.ai/): Idea generator for social media cvontent, blogs, essays, etc. 
+- [Copy.ai](https://www.copy.ai/): Idea generator for social media cvontent, blogs, essays, etc. 
 
 **Video**
-[invideo](https://invideo.io/workflow/marketing-templates): enter your text and it will create a presentation using AI and stock photo/video.
-[PlayPosit](https://go.playposit.com/higher-ed): Interactive presentations  
-[H5P](https://h5p.org/): Interactive presentations and assessments  
-[genially](https://genial.ly/): interactive (incl. gamified) presentations and infographics  
-[iStock Video Editor](https://www.istockphoto.com/video-editor)
-[DaVinciResolve](https://www.blackmagicdesign.com/products/davinciresolve)
-[Capcut (for cell phone)](https://www.capcut.net/)
-[Renderforest](https://www.renderforest.com/)
-[jitter](https://jitter.video/)
-[Drone Stock](https://dronestock.com/): royalty free done stock footage
-[descript](https://www.descript.com/): All in one audio and video editing, transcription, etc.
+- [invideo](https://invideo.io/workflow/marketing-templates): enter your text and it will create a presentation using AI and stock photo/video.
+- [PlayPosit](https://go.playposit.com/higher-ed): Interactive presentations  
+- [H5P](https://h5p.org/): Interactive presentations and assessments  
+- [genially](https://genial.ly/): interactive (incl. gamified) presentations and infographics  
+- [iStock Video Editor](https://www.istockphoto.com/video-editor)
+- [DaVinciResolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- [Capcut (for cell phone)](https://www.capcut.net/)
+- [Renderforest](https://www.renderforest.com/)
+- [jitter](https://jitter.video/)
+- [Drone Stock](https://dronestock.com/): royalty free done stock footage
+- [descript](https://www.descript.com/): All in one audio and video editing, transcription, etc.
 
 **Images and Illustrations: **
-[OpenPeeps (freefree hand-drawn illustrations)](https://www.openpeeps.com/)
-[On Fire Illustrations (some paid, some free)](https://onfire.craftwork.design/)
-[The Noun Project](https://thenounproject.com/): free icons
-[Google icons](https://fonts.google.com/icons)
-Remove the background of images with [removeBG](https://www.remove.bg/)
-[Pixelhunter](https://pixelhunter.io/): Resize images for social media
-[Animated Drawings from Meta](https://sketch.metademolab.com/): _This will animate drawings for use in presentations but note that the [terms of use](https://sketch.metademolab.com/terms) state that you transfer Meta rights to your images in perpetuity for any use._
-[freepik](https://www.freepik.com/): images, illustrations, vectors, templates, backgrounds
+- [OpenPeeps (freefree hand-drawn illustrations)](https://www.openpeeps.com/)
+- [On Fire Illustrations (some paid, some free)](https://onfire.craftwork.design/)
+- [The Noun Project](https://thenounproject.com/): free icons
+- [Google icons](https://fonts.google.com/icons)
+- [removeBG](https://www.remove.bg/): Removes the background of images (so you can insert into other photos)
+- [Pixelhunter](https://pixelhunter.io/): Resize images for social media
+- [Animated Drawings from Meta](https://sketch.metademolab.com/): _This will animate drawings for use in presentations but note that the [terms of use](https://sketch.metademolab.com/terms) state that you transfer Meta rights to your images in perpetuity for any use._
+- [freepik](https://www.freepik.com/): images, illustrations, vectors, templates, backgrounds
 
 **Miscellaneous**
-[What the Font](https://www.myfonts.com/WhatTheFont/): ID the font in any image or website
-Transform handrwiting into calligraphy with [calligraphr](https://www.calligraphr.com/en/features/)
-[HemmingwayApp](https://hemingwayapp.com/): review writing for readability, grade -level, etc
-[Versus](https://versusutil.com/?seed=photoshop): find (free) alternatives to software
+- [What the Font](https://www.myfonts.com/WhatTheFont/): ID the font in any image or website
+- [calligraphr](https://www.calligraphr.com/en/features/): Transform handrwiting into calligraphy
+- [HemmingwayApp](https://hemingwayapp.com/): review writing for readability, grade -level, etc
+- [Versus](https://versusutil.com/?seed=photoshop): find (free) alternatives to software
 
 **Creating Tutorials**
-[Scribe](https://scribehow.com/). Simply click through the website/proceedure and it builds the tutorial for you. See also [Tango](https://www.tango.us/)
+- [Scribe](https://scribehow.com/). Simply click through the website/proceedure and it builds the tutorial for you. See also [Tango](https://www.tango.us/)
+
+**Editing Class Materials**
+- [I love PDF - convert to/from PDF and other formats](https://www.ilovepdf.com/)
 
 ### Resources for Video Classes
 
-[ClassroomScreen](https://www.classroomscreen.com/learn/): 'Landing page' for your video classes to display instructions, play music, countdown to class, etc. as students are arriving (see it in action on [this TikTok video](https://www.tiktok.com/@mrnapoles/video/7071742647374777646?is_copy_url=1&is_from_webapp=v1&lang=en))
-Help Schedule with [EveryTimeZone](https://everytimezone.com/)
+- [ClassroomScreen](https://www.classroomscreen.com/learn/): 'Landing page' for your video classes to display instructions, play music, countdown to class, etc. as students are arriving (see it in action on [this TikTok video](https://www.tiktok.com/@mrnapoles/video/7071742647374777646?is_copy_url=1&is_from_webapp=v1&lang=en))
+- Help Schedule with [EveryTimeZone](https://everytimezone.com/)
 
 ### Website Construction
 
-[BuiltWith](https://builtwith.com/): find out what platform, settings, etc. a website is built with (see also [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg))
-[css peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en): extract css from websites you like
+- [BuiltWith](https://builtwith.com/): find out what platform, settings, etc. a website is built with (see also [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg))
+- [css peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en): extract css from websites you like
 ### File Conversion
-[I love PDF - convert to/from PDF and other formats](https://www.ilovepdf.com/)
-[Tiny Wow](https://tinywow.com/) file conversion, background removal
-[Google Sites](https://sites.google.com/new): free, templates, easy
+- [Tiny Wow](https://tinywow.com/) file conversion, background removal
+- [Google Sites](https://sites.google.com/new): free, templates, easy
 
 
 ### Instructor Networks
-[U-FERN](https://ufern.net/): The Undergraduate-Field Experiences Research Network  
-[EREN](https://erenweb.org/): Ecological Research As Education Network  
-[Enhancing Fieldwork Learning](https://enhancingfieldwork.org.uk/about/)  
+- [U-FERN](https://ufern.net/): The Undergraduate-Field Experiences Research Network  
+- [EREN](https://erenweb.org/): Ecological Research As Education Network  
+- [Enhancing Fieldwork Learning](https://enhancingfieldwork.org.uk/about/)  
 
 
 
